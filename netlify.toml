@@ -1,2 +1,7 @@
 [build]
   functions = "my_functions"
+
+[[redirects]]
+  from = "/old-path"
+  to = "/.netlify/functions"
+  status = 301
