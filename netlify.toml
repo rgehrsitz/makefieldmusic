@@ -4,7 +4,7 @@
 
 [build.environment]
   # Change this path with the path to your repository
-  GO_IMPORT_PATH = "github.com/rgehrsitz/makefieldmusic"  
+  GO_IMPORT_PATH = "github.com/rgehrsitz/makefieldmusic/my_functions"  
 
 [[redirects]]
   from = "/old-path/hello"
