@@ -2,6 +2,6 @@
   functions = "my_functions"
 
 [[redirects]]
-  from = "/old-path"
-  to = "/.netlify/functions"
+  from = "/old-path/hello"
+  to = "/.netlify/functions/hello"
   status = 301
