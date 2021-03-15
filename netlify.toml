@@ -5,3 +5,8 @@
   from = "/old-path/hello"
   to = "/.netlify/functions/hello"
   status = 301
+
+  [[redirects]]
+  from = "/old-path/hellogo"
+  to = "/.netlify/functions/hellogo"
+  status = 301
